@@ -1,0 +1,5 @@
+name: streamlit-env
+dependencies:
+ - numpy
+ - scipy
+ - pandas
